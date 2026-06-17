@@ -1,0 +1,22 @@
+use_GPU: False
+device: cpu
+interpreter_device: cpu
+n_action: 2
+interpretive_method: rand
+use_non_dominated_sort: True
+use_dynamic_weights: True
+n_data_sample: 10
+weighted_samples: False
+threshold: 0.7
+epoch: 15
+mini_epoch: 20
+batch_size: 128
+lr: 0.001
+scheduler_step: 2
+scheduler_gamma: 0.8
+epsilon: 0.2
+save_model_path: hgfr_model
+seq: YALARFFNLL
+==================================================
+actions_probs
+[0.9982823133468628, 0.0017176894471049309], [0.06056949123740196, 0.9394304752349854], [0.019300801679491997, 0.9806992411613464], [0.06056949123740196, 0.9394304752349854], [0.0055808802135288715, 0.9944190382957458], [0.7098300457000732, 0.29016992449760437], [0.7098300457000732, 0.29016995429992676], [0.03177805244922638, 0.96822190284729], [0.019300812855362892, 0.9806992411613464], [0.019300812855362892, 0.9806992411613464]

@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: deeplog
+Version: 1.1.7
+Summary: Log the deep learning project
+Home-page: https://github.com/MacroHongZ/DeepLog
+Author: MacroHongZ
+Author-email: wanghongzhunsix@qq.com
+Requires-Dist: matplotlib

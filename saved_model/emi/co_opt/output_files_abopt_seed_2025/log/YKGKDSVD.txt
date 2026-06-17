@@ -1,0 +1,22 @@
+use_GPU: True
+device: cuda:0
+interpreter_device: cuda:0
+n_action: 2
+interpretive_method: rand
+use_non_dominated_sort: True
+use_dynamic_weights: False
+n_data_sample: 10
+weighted_samples: False
+threshold: 0.7
+epoch: 15
+mini_epoch: 20
+batch_size: 256
+lr: 0.001
+scheduler_step: 2
+scheduler_gamma: 0.8
+epsilon: 0.2
+save_model_path: hgfr_model
+seq: YKGKDSVD
+==================================================
+actions_probs
+[0.9717089533805847, 0.02829097956418991], [0.7491850852966309, 0.25081491470336914], [0.9742367267608643, 0.02576320990920067], [0.7491850852966309, 0.25081491470336914], [0.9820187091827393, 0.017981326207518578], [0.9784890413284302, 0.021510977298021317], [0.9404741525650024, 0.05952584743499756], [0.9820187091827393, 0.017981326207518578]

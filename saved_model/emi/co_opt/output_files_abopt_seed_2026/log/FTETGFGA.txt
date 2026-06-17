@@ -1,0 +1,22 @@
+use_GPU: True
+device: cuda:0
+interpreter_device: cuda:0
+n_action: 2
+interpretive_method: rand
+use_non_dominated_sort: True
+use_dynamic_weights: False
+n_data_sample: 10
+weighted_samples: False
+threshold: 0.7
+epoch: 15
+mini_epoch: 20
+batch_size: 256
+lr: 0.001
+scheduler_step: 2
+scheduler_gamma: 0.8
+epsilon: 0.2
+save_model_path: hgfr_model
+seq: FTETGFGA
+==================================================
+actions_probs
+[0.0005645826458930969, 0.9994353652000427], [0.0006424161256290972, 0.9993576407432556], [0.000742377364076674, 0.9992576241493225], [0.0006424161256290972, 0.9993576407432556], [0.40186184644699097, 0.598138153553009], [0.0005645826458930969, 0.9994353652000427], [0.40186184644699097, 0.598138153553009], [0.07670015096664429, 0.9232997894287109]

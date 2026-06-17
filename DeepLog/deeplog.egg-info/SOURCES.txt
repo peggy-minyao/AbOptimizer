@@ -1,0 +1,8 @@
+setup.py
+deeplog/DeepLog.py
+deeplog/__init__.py
+deeplog.egg-info/PKG-INFO
+deeplog.egg-info/SOURCES.txt
+deeplog.egg-info/dependency_links.txt
+deeplog.egg-info/requires.txt
+deeplog.egg-info/top_level.txt

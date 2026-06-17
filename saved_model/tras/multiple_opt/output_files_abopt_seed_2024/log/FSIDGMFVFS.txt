@@ -1,0 +1,22 @@
+use_GPU: False
+device: cpu
+interpreter_device: cpu
+n_action: 2
+interpretive_method: rand
+use_non_dominated_sort: True
+use_dynamic_weights: True
+n_data_sample: 10
+weighted_samples: False
+threshold: 0.7
+epoch: 15
+mini_epoch: 20
+batch_size: 128
+lr: 0.001
+scheduler_step: 2
+scheduler_gamma: 0.8
+epsilon: 0.2
+save_model_path: hgfr_model
+seq: FSIDGMFVFS
+==================================================
+actions_probs
+[0.8545434474945068, 0.14545650780200958], [0.014440045692026615, 0.9855599403381348], [0.010833165608346462, 0.9891668558120728], [0.0440700463950634, 0.9559298753738403], [0.09630775451660156, 0.9036922454833984], [0.023791002109646797, 0.9762090444564819], [0.8545435667037964, 0.1454564929008484], [0.013208880089223385, 0.9867911338806152], [0.8545434474945068, 0.1454564929008484], [0.014440045692026615, 0.9855599403381348]
