@@ -15,7 +15,7 @@ AbOptimizer is a therapeutic antibody optimization framework based on reinforcem
 
 * torch=2.1.2+cu118
 
-  Detail in **Requirement.txt**
+  Detail in **requirement.txt**
 
 
 
@@ -68,9 +68,9 @@ Please ensure that `tcsh` is installed and available at `/bin/tcsh` before runni
 export PATH="/root/autodl-tmp/framework_LLM_4acitions/AbOpt/env/netMHCIIpan-4.1:$PATH"
 ```
 
-#### 3.Optioal: ANARCI
+#### 3.Optional: ANARCI
 
-This step is necessary only when performing **antibody optimization with the generic-specificity surrogate**. The [ANARCI repository](https://github.com/oxpig/ANARCI) is provided under `./AbOpt/env/ANARCI`. Carefully follow the README instructions to complete installation and verify that the tests run successfully.
+This step is necessary only when performing **antibody optimization with the generic-specificity surrogate**. The [ANARCI repository](https://github.com/oxpig/ANARCI) is provided under `".\Abopt_generic\Abopt\env\ANARCI"`. Carefully follow the README instructions to complete installation and verify that the tests run successfully.
 
 Then,
 
@@ -149,7 +149,7 @@ The trained surrogate predictors and the corresponding compiled files are provid
 | ----------------------- | ------------------------------ | ----------------------------------- | ------------------------------------- |
 | **Emibetuzumab (HGFR)** | `./Abopt/env/hgfr_affinity.pt` | `./Abopt/env/hgfr_specificity.pt`   | (N/A)                                 |
 | **Trastuzumab (HER2)**  | *(N/A)*                        | `./Abopt/env/variable_her2_spec.pt` | (N/A)                                 |
-| **Siltuximab (IL-6)**   | (N/A)                          | (N/A)                               | ./Abopt/abopt_generic/env/LLM_fitness |
+| **Siltuximab (IL-6)**   | (N/A)                          | (N/A)                               | .\Abopt_generic\Abopt\env\LLM_fitness |
 
 
 
