@@ -11,7 +11,7 @@ AbOptimizer is a therapeutic antibody optimization framework based on reinforcem
 
 * python=3.10.15
 
-* numpy=2.0.2
+* numpy=1.26.4
 
 * torch=2.1.2+cu118
 
