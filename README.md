@@ -59,7 +59,7 @@ python setup.py install
 
 #### 2.Optional: netMHCIIpan-4.1 
 
-This step is only required for multiple-property optimization in **Antibody optimization with antibody-specificity surrogate**. First, download **NetMHCIIpan-4.1** from [DTU Health Tech](https://services.healthtech.dtu.dk/services/NetMHCIIpan-4.1/). Then, place the downloaded compressed file in `./AbOpt/env/`, extract it, and follow the installation instructions in `netMHCIIpan-4.1.readme`.  Finally, ensure that **NetMHCIIpan** passes all test runs successfully.
+This step is only required for multiple-property optimization. First, download **NetMHCIIpan-4.1** from [DTU Health Tech](https://services.healthtech.dtu.dk/services/NetMHCIIpan-4.1/). Then, place the downloaded compressed file in `./AbOpt/env/`, extract it, and follow the installation instructions in `netMHCIIpan-4.1.readme`.  Finally, ensure that **NetMHCIIpan** passes all test runs successfully.
 
 Please ensure that `tcsh` is installed and available at `/bin/tcsh` before running NetMHCIIpan-dependent modules, for example by using `sudo apt-get install -y tcsh && sudo ln -sf /usr/bin/tcsh /bin/tcsh`.
 
