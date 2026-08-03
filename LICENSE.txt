@@ -1,0 +1,34 @@
+TACIT Software owned by Virginia Commonwealth University (VCU) under the CC BY-NC 4.0 License:
+LICENSE AGREEMENT
+TACIT Software
+Copyright ©2025 Virginia Commonwealth University
+This software, TACIT, is copyrighted and owned by Virginia Commonwealth University (VCU). By downloading, using, or modifying this software, you agree to comply with the terms of this license.
+LICENSE TYPE
+This software is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License.
+Full license text: https://creativecommons.org/licenses/by-nc/4.0/. 
+RIGHTS GRANTED
+Subject to the terms of this license, you are granted the following rights:
+• Use: You may use this software for personal, academic, and non-commercial purposes.
+• Modify: You may modify the software as long as proper attribution is given to Virginia Commonwealth University.
+• Share: You may distribute unmodified or modified versions of this software for non-commercial purposes only.
+ATTRIBUTION REQUIREMENTS
+You must give appropriate credit to Virginia Commonwealth University by:
+• Including the following acknowledgment in the software or accompanying materials:
+NON-COMMERCIAL RESTRICTION
+This license strictly prohibits the use of TACIT software for commercial purposes. Examples of prohibited commercial uses include:
+	• Selling or licensing the software or its derivatives for profit.
+	• Using the software in paid services or in products you charge money for.
+To request permission for commercial use, contact VCU at: liuj15@vcu.edu
+DISCLAIMER OF WARRANTY
+This software is provided “as is,” without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+Virginia Commonwealth University is not liable for any claims, damages, or other liabilities arising from the use or misuse of this software.
+LIMITATIONS
+You may not:
+	• Remove or alter copyright or licensing notices from the software.
+• Use the software in any way that violates the terms of the CC BY-NC 4.0 license or this agreement.
+CONTACT INFORMATION
+For inquiries about the license, permissions, or other details, contact:
+VCU Tech Transfer 
+Email Address: bfagg@vcu.edu
+This license allows for free academic and personal use, with clear attribution, while protecting VCU’s ownership rights and prohibiting unauthorized commercial exploitation.
+
