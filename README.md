@@ -219,17 +219,15 @@ python sampling.py
 
 ## 📜 License
 
-This software is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
+This software is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
 You may view a copy of this license at:
-👉 https://creativecommons.org/licenses/by-nc-nd/4.0/
+👉 [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
 
-Under this license, you are free to share (copy and redistribute) the material in any medium or format, under the following terms:
+Under this license, you are free to share (copy and redistribute) the material in any medium or format, Adapt (remix, transform, and build upon) the materiaunder the following terms:
 
 Attribution — You must give appropriate credit and provide a link to the license.
 
 NonCommercial — You may not use the material for commercial purposes.
-
-NoDerivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
 
 
 ## 🧾 Citation
