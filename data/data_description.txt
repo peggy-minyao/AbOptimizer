@@ -1,0 +1,4 @@
+emibetuzumab.xlsx contains the training data used in this study and was derived from Co-optimization of therapeutic antibody affinity and specificity using machine learning models that generalize to novel mutational space. The original data are available at Tessier-Lab-UMich/Emi_Pareto_Opt_mL.
+trastuzumab.xlsx contains the training data used in this study. The fixed-length data were derived from Optimization of therapeutic antibodies by predicting antigen specificity from antibody sequence via deep learning, and the variable-length data were derived from Unlocking de novo antibody design with generative artificial intelligence. The original data are available at https://github.com/dahjan/DMS_opt/tree/master and https://github.com/AbSciBio/unlocking-de-novo-antibody-design/tree/main, respectively.
+
+The `.pse` files contain the docked conformations and can be opened with PyMOL.
