@@ -1,6 +1,7 @@
 # Multiproperty Optimization of Therapeutic Antibodies through Sequence Editing via Large Language Model and Reinforcement Learning
 
 Discovering antibodies with multiple beneficial properties is essential for therapeutic drug development, but experimentally identified antibodies often require further optimization. Joint optimization remains challenging because antibody sequence space is vast, annotations are sparse and property tradeoffs are common. Herein, we propose AbOptimizer, a reinforcement learning framework for multiproperty antibody optimization through parallel multisite sequence editing. AbOptimizer uses property feedback to guide site specific 'reservation', 'substitution' and optional 'insertion' and 'deletion' edits, with protein language model proposals, surrogate evaluation and Pareto based rewards. We evaluate AbOptimizer on emibetuzumab, siltuximab and trastuzumab across multiproperty, data limited and indel inclusive settings. \textit{In silico}, AbOptimizer consistently improves optimized properties and outperforms baseline methods. \textit{In vitro}, selected variants improve affinity and specificity for emibetuzumab and siltuximab, largely maintain siltuximab thermal stability and enhance affinity for trastuzumab indel variants. These results establish AbOptimizer as a practical framework for therapeutic antibody optimization.![Figure 1](Antibody_editor.jpg)
+Our github:https://github.com/peggy-minyao/AbOptimizer
 
 ## AbOptimizer
 
